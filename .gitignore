@@ -1,0 +1,58 @@
+# Compiled binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+*.a
+*.lib
+
+# Debugging
+*.pdb
+*.ilk
+*.dSYM/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+.Python
+
+# Logs
+*.log
+logs/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Sensitive
+*.key
+*.pem
+*.pfx
+config.json
+secrets.txt
+
+# Test artifacts
+test_output/
+screenshots/
+dumps/
+
+# Backup files
+*.bak
+*.backup
+*~
