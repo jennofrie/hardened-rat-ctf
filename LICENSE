@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2024 Hardened RAT Project
+Copyright (c) 2024 Jennofrie Daguil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,23 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-EDUCATIONAL USE ONLY DISCLAIMER:
-
-This software is intended for educational and research purposes only. 
-Users must:
-- Obtain proper authorization before testing on any systems
-- Comply with all applicable laws and regulations
-- Use only in controlled, legal environments
-- Not use for malicious purposes
-
-The authors and contributors:
-- Assume NO LIABILITY for misuse
-- Are NOT RESPONSIBLE for any illegal activities
-- Do NOT endorse unauthorized computer access
-- Provide this tool AS-IS without warranties
-
-Unauthorized access to computer systems is illegal in most jurisdictions.
-Users are solely responsible for ensuring legal compliance.

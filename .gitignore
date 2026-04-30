@@ -1,19 +1,14 @@
+# Rust build artifacts
+/target/
+**/target/
+Cargo.lock
+
 # Compiled binaries
 *.exe
 *.dll
 *.so
 *.dylib
-
-# Object files
-*.o
-*.obj
-*.a
-*.lib
-
-# Debugging
 *.pdb
-*.ilk
-*.dSYM/
 
 # IDE
 .vscode/
@@ -21,19 +16,6 @@
 *.swp
 *.swo
 *~
-
-# Python
-__pycache__/
-*.py[cod]
-*$py.class
-*.egg-info/
-dist/
-build/
-.Python
-
-# Logs
-*.log
-logs/
 
 # OS
 .DS_Store
@@ -46,6 +28,7 @@ desktop.ini
 *.pfx
 config.json
 secrets.txt
+.env
 
 # Test artifacts
 test_output/
@@ -55,4 +38,3 @@ dumps/
 # Backup files
 *.bak
 *.backup
-*~

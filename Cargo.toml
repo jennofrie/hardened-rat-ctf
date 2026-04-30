@@ -1,0 +1,22 @@
+[workspace]
+resolver = "2"
+members = [
+    "rat-common",
+    "rat-implant",
+    "rat-server",
+]
+
+[workspace.package]
+version = "0.1.0"
+edition = "2021"
+authors = ["Jennofrie Daguil"]
+license = "MIT"
+description = "Advanced evasion RAT for CTF competitions and security research"
+
+[workspace.dependencies]
+rat-common = { path = "rat-common" }
+aes = "0.8"
+ctr = "0.9"
+rand = "0.8"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
